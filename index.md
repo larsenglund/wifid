@@ -56,4 +56,13 @@ Also features;
 * RGB led
 * Battery backup
 
-## RC (Remote Controll)
+## RC (Remote Control)
+Handheld remote control with 1.44 inch full color display and 12 tactical buttons.
+Uses the worlds most BL-5C
+Standard Up to 208 days battery time and USB rechargeable.
+
+
+# Software
+## wifid configurator
+## Server
+Homeassistant
