@@ -4,7 +4,7 @@ A series of open smart automation devices and software.
 # Devices
 All devices support WiFi and mesh networking.
 Available devices are;
-* [LD (LED Dimmer)](#LD (LED Dimmer))
+* [LD (LED Dimmer)](#LD-LED-Dimmer))
 * ED (Embedded Dimmer)
 * WD (Wall Dimmer)
 * ET (Embedded Thermostat)
