@@ -2,4 +2,4 @@
 wifid
 
 test
-![test image]({{ site.url }}/assets/tv-test-pattern.png)
+![test image](assets/tv-test-pattern.png)
