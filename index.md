@@ -1,16 +1,16 @@
 # What is this?
-A series of open smart automation devices and software.
+A series of open smart automation devices and software. All devices support WiFi and mesh networking and use open standards such as MQTT for communication. Works with Google Home and Alexa. Easy creation of automation rules, scheduling and scenes.
 
 # Devices
 All devices support WiFi and mesh networking.
 Available devices are;
 * [LD (LED Dimmer)](#ld-led-dimmer)
-* ED (Embedded Dimmer)
-* WD (Wall Dimmer)
-* ET (Embedded Thermostat)
-* WT (Wall Thermostat)
-* WS (Wall Sensor)
-* RC (Remote Controll)
+* [ED (Embedded Dimmer)](#ed-embedded-dimmer)
+* [WD (Wall Dimmer)](#wd-wall-dimmer)
+* [ET (Embedded Thermostat)](#et-embedded-thermostat)
+* [WT (Wall Thermostat)](#wt-wall-thermostat)
+* [WS (Wall Sensor)](#ws-wall-sensor)
+* [RC (Remote Control)](#rc-remote-control)
 
 ## LD (LED Dimmer)
 LED controller with two dimmer channels and two RGB channels.
@@ -58,11 +58,13 @@ Also features;
 
 ## RC (Remote Control)
 Handheld remote control with 1.44 inch full color display and 12 tactical buttons.
-Uses the worlds most BL-5C
-Standard Up to 208 days battery time and USB rechargeable.
-
+Uses the very common (and thus economic) Nokia BL-5C battery with up to 208 days battery time.
+USB rechargeable with standard mini USB phone charger.
 
 # Software
 ## wifid configurator
+Mobile phone app that automatically finds and configures all devices.
+
 ## Server
-Homeassistant
+Optional local server that allows automation and data collection to be kept local and private.
+Raspberry Pi with Homeassistant and additional software.
