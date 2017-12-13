@@ -1,5 +1,6 @@
-# wifid
-wifid
+# What is this?
+A series of open smart automation devices and software.
 
-test2
-![test image](assets/tv-test-pattern.png)
+# Devices
+## LD 
+LED dimmer
