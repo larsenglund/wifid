@@ -36,7 +36,7 @@ Floor temperature sensor should be NTC 10K (adaptable from 1K to 100K).
 Features over voltage, over current and over temperature protection.
 
 ## WT (Wall Thermostat)
-Insert with a 1.44 inch full color display, 9 tactile switches and temperature sensor.
+Insert with a 1.44 inch (128x128 pixels) full color display, 9 tactile switches and temperature sensor.
 Adapted to the global 55x55mm platform and compatible with Schneider Exxact and similar 55x55mm systems.
 
 ## WS (Wall Sensor)
@@ -54,10 +54,10 @@ Also features;
 * Optical smoke detector
 * Piezo siren for alarms
 * RGB led
-* Battery backup
+* Battery backup (lipo + charger)
 
 ## RC (Remote Control)
-Handheld remote control with 1.44 inch full color display and 12 tactical buttons.
+Handheld remote control with 1.44 inch (128x128 pixels) full color display and 12 tactical buttons.
 Uses the very common (and thus economic) Nokia BL-5C battery with up to 208 days battery time.
 USB rechargeable with standard mini USB phone charger.
 
