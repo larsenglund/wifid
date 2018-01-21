@@ -56,6 +56,8 @@ Also features;
 * RGB led
 * Battery backup (lipo + charger)
 
+<In WS more-info-page, link to CO2 studies: http://vair-monitor.com/2016/09/29/sleeping-closed-room-indoor-co2-analyze/>
+
 ## RC (Remote Control)
 Handheld remote control with 1.44 inch (128x128 pixels) full color display and 12 tactical buttons.
 Uses the very common (and thus economic) Nokia BL-5C battery with up to 208 days battery time.
